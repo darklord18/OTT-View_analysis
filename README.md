@@ -1,0 +1,1 @@
+Despite allocating a substantial budget to advertising, there has been a decline in viewership on the OTT platform. Upon analysis of the issue, it has been identified as a regression problem. To address this, we have opted for static modeling using linear regression. Our model achieved an accuracy score of 87%.
